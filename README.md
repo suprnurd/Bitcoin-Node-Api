@@ -161,7 +161,7 @@ chaincoinapi.setAccess('read-only');
 
 chaincoin-node-api is used in the following projects:
 
-* [Ciquidus Alpha](https://explorer.chaincoin.org)
+* [Ciquidus Alpha](https://github.com/suprnurd/ciquidus)
 
 
 # Licence
